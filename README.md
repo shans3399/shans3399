@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently a research associate working on data management and analysis.
+
+Prounouns: she/her
+
 <!--
 **shans3399/shans3399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
